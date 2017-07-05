@@ -1,0 +1,21 @@
+video {
+    margin: 10px;
+}
+
+.access {
+    background-color: #CF649A;
+    text-align: center;
+}
+
+.shows {
+    background-color: #FFF;
+    text-align: center;
+}
+
+.photos {
+    background-color: #F7F6F6;
+}
+
+footer {
+    padding: 5% 15px;
+}
