@@ -5,14 +5,15 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="Acesso Restrito é uma banda do">
+    <meta name="keywords" content="Banda, Acesso, Forró, São João">
     <meta name="viewport" content="width=device-width, intial-scale=1, user-scalable=no">
     <meta name="author" content="Kaio Rodrigo S. Porto">
     <title>Acesso Restrito</title>
-    <link rel="stylesheet" type="text/css" href="../bower_components/gaintime/css/gaintime.min.css">
-    <link rel="stylesheet" type="text/css" href="../assets/main.css">
+    <link rel="stylesheet" type="text/css" href="../vendor/gaintime/css/gaintime.min.css">
+    <link rel="stylesheet" type="text/css" href="../assets/css/main.css">
 </head>
     <header class="gt-top-menu xs-left">
-        <img src="">
+        <img src="../assets/imgs/access.png">
         <label class="menu-toggle"></label>
         <nav>
             <ul>
